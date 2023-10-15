@@ -1,3 +1,4 @@
+#Lernt33
 import webbrowser, time
 import os
 print("@Lernt33's first script")
